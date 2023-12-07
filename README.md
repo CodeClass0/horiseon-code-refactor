@@ -12,6 +12,6 @@ https://codeclass0.github.io/horiseon-code-refactor/
 
 ## Usage
 
-Simply click the link above.
+Simply click the link above, or view the finished project screenshot below.
 
 ![screenshot of finished product](assets/images/screenshot.jpg)
