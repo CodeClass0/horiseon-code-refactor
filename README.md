@@ -7,6 +7,7 @@ This project is for refactoring the horiseon website code, bringing it up to acc
 ## Installation
 
 Use Git to clone this repository.
+
 git clone horiseon-code-refactor
 
 Finished site here:
