@@ -6,8 +6,10 @@ This project is for refactoring the horiseon website code, bringing it up to acc
 
 ## Installation
 
-The updated site can be accessed at the following address:
+Use Git to clone this repository.
+git clone horiseon-code-refactor
 
+Finished site here:
 https://codeclass0.github.io/horiseon-code-refactor/
 
 ## Usage
